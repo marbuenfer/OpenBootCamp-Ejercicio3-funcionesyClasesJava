@@ -30,4 +30,10 @@ Asegúrate de tener todo lo que necesites preparado ya que una vez se acabe el t
 
 ## Realización:
 
-Para realizar la práctica he utilizado El IDE NetBeans y el lenguaje de programación JAva. Los ficheros fuente se encuentran en la carpeta /src. El archivo main se llama "OpenBootcamp" y alli se crea la función que suma 3 números y se crea una instancia de la clase Coche para poder utilizar uno de sus métodos y añadir una puerta.
+Para realizar la práctica he utilizado el IDE NetBeans y el lenguaje de programación Java. 
+
+Los ficheros fuente se encuentran en la carpeta /src. 
+
+El archivo main se llama "OpenBootcamp" y alli se crea la función que suma 3 números.
+
+También, dentro del main se crea una instancia de la clase Coche para poder utilizar uno de sus métodos y añadir una puerta.
