@@ -1,13 +1,12 @@
-# OpenBootCamp-Ejercicio3-funcionesyClasesJava
-Crear función suma y llamarla desde el main y clase Coche llamar desde el main y añadir puerta.
+# BootCamp OpenBootCamp-Ejercicio3
 
 Enunciado del ejercicio:
 
-##vPrimera parte:
+## Primera parte:
 
-Crear una función con tres parámetros que sean números que se suman entre sí.
+- Crear una función con tres parámetros que sean números que se suman entre sí.
 
-Llamar a la función en el main y darle valores.
+- Llamar a la función en el main y darle valores.
 
 ## Segunda parte:
 
